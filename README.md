@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Y13 student learning more about programming<br>💻 Aspiring DevOps engineer<br>🏫 Planning to study Computer Science at University<br>💭 Currently learning about edge computing
+🧑‍💻 Y13 student learning more about programming<br>🏫 Planning to study Computer Science at University<br>💭 Currently learning about edge computing
 
 
 ## 🌐 Socials:
