@@ -1,4 +1,4 @@
-##Hello! I'm Joseph 👋
+## Hello! I'm Joseph 👋
 
 # 💫 About Me:
 🧑‍💻 Y13 student learning more about programming<br>🏫 Planning to study Computer Science at University<br>💭 Currently learning about edge computing
