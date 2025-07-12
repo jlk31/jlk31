@@ -1,7 +1,7 @@
 ## Hello! I'm Joseph 👋
 
 # 💫 About Me:
-🧑‍💻 2nd year A-Level student, Computer Science, Whickham School.<br>🏫 Planning to study Computer Science at University<br>💭 Currently learning about edge computing<br>🤖 Interested in robotics and self-hosting
+🧑‍💻 Soon to be first year BSc Computer Science student, Northumbria University.<br>🏫 Planning to study Computer Science at University<br>💭 Currently learning about edge computing<br>🤖 Interested in robotics and self-hosting
 
 
 ## 🌐 Socials:
