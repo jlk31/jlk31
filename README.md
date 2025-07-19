@@ -1,7 +1,7 @@
 ## Hello! I'm Joseph 👋
 
 # 💫 About Me:
-🧑‍💻 Soon to be first year BSc Computer Science student, Northumbria University.<br>🏫 Aspiring Cyber Security Engineer/Model Validation Specialist<br>💭 Currently learning about big data<br>🤖 Interested in data science and pen-testing
+🧑‍💻 First year BSc Computer Science applicant.<br>🏫 Aspiring Cyber Security Engineer/Model Validation Specialist<br>💭 Currently learning about big data<br>🤖 Interested in data science and pen-testing
 
 
 ## 🌐 Socials:
