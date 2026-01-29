@@ -1,4 +1,4 @@
-## Hello! I'm Joseph 👋
+## Hello
 
 Hoping to connect with other students planning to join the IT industry along with professionals already in the field to explore new opportunities and apply my skills to real-world projects.
 
