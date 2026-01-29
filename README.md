@@ -4,7 +4,7 @@ Hoping to connect with other students planning to join the IT industry along wit
 
 ## 💫 About Me
 
-🧑‍💻 First year BSc Computer Science applicant.<br>🤖 Aspiring AI/ML Engineer<br>🧠 Currently learning about MS Azure<br>📊 Interested in how data analytics and model validation are used in fintech
+🧑‍💻 Founation BSc Computer Science.<br>🤖 Aspiring AI/ML Engineer<br>🧠 Currently learning about MS Azure<br>📊 Interested in how data analytics and model validation are used in fintech
 
 ## 💻 Tech Stack
 
