@@ -13,7 +13,7 @@ Currently working on discrete mathematics skills, backend development, and AI ba
 ### Software
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,powershell" />
 </p>
 
 ## GitHub Stats
