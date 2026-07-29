@@ -1,4 +1,4 @@
-# Hey! 👋 I'm Joseph
+# Hey! I'm Joseph
 
 First year BSc Computer Science student
 
@@ -16,7 +16,7 @@ Currently working on discrete mathematics skills, backend development, and AI ba
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 | Streak Stats | Contributions Graph |
 |---------------|----------------------|
