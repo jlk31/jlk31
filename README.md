@@ -7,7 +7,7 @@ Currently working on discrete mathematics skills, backend development, and AI ba
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,lua" />
 </p>
 
 ### Software
