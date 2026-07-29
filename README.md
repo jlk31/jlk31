@@ -1,16 +1,20 @@
-## Hello
+# Hey! 👋 I'm Joseph
 
-Hoping to connect with other students planning to join the IT industry along with professionals already in the field to explore new opportunities and apply my skills to real-world projects.
+First year BSc Computer Science student
 
-## 💫 About Me
+Currently working on discrete mathematics skills, backend development, and AI basics. 
 
-🧑‍💻 Foundation BSc Computer Science <br>🤖 Aspiring AI/ML Engineer<br>🧠 Currently learning about MS Azure<br>📊 Interested in how data analytics and model validation are used in fintech
+### Languages
 
-## 💻 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+</p>
 
-| Languages | Tools |
-|------------|-------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)<br>![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br>![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)<br>![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+### Software
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github" />
+</p>
 
 ## 📊 GitHub Stats
 
