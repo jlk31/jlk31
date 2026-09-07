@@ -2,7 +2,7 @@
 
 First year BSc Computer Science student
 
-Currently working on discrete mathematics skills, backend development, and AI basics. 
+Currently working on discrete mathematics skills, backend development, and AI/ML fundamentals. 
 
 ### Languages
 
