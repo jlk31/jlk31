@@ -18,6 +18,4 @@ Currently working on discrete mathematics skills, backend development, and AI/ML
 
 ## GitHub Stats
 
-| Streak Stats | Contributions Graph |
-|---------------|----------------------|
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=jlk31&theme=tokyonight) | [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jlk31)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+![GitHub Streak](https://streak-stats.demolab.com/?user=jlk31&theme=tokyonight)
